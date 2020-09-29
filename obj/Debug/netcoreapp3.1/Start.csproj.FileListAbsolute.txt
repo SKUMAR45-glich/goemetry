@@ -2,3 +2,12 @@ C:\Users\saura\Desktop\Geometry\Start\obj\Debug\netcoreapp3.1\Start.csprojAssemb
 C:\Users\saura\Desktop\Geometry\Start\obj\Debug\netcoreapp3.1\Start.AssemblyInfoInputs.cache
 C:\Users\saura\Desktop\Geometry\Start\obj\Debug\netcoreapp3.1\Start.AssemblyInfo.cs
 C:\Users\saura\Desktop\Geometry\Start\obj\Debug\netcoreapp3.1\Start.csproj.CoreCompileInputs.cache
+C:\Users\saura\Desktop\Geometry\Start\bin\Debug\netcoreapp3.1\Start.exe
+C:\Users\saura\Desktop\Geometry\Start\bin\Debug\netcoreapp3.1\Start.deps.json
+C:\Users\saura\Desktop\Geometry\Start\bin\Debug\netcoreapp3.1\Start.runtimeconfig.json
+C:\Users\saura\Desktop\Geometry\Start\bin\Debug\netcoreapp3.1\Start.runtimeconfig.dev.json
+C:\Users\saura\Desktop\Geometry\Start\bin\Debug\netcoreapp3.1\Start.dll
+C:\Users\saura\Desktop\Geometry\Start\bin\Debug\netcoreapp3.1\Start.pdb
+C:\Users\saura\Desktop\Geometry\Start\obj\Debug\netcoreapp3.1\Start.dll
+C:\Users\saura\Desktop\Geometry\Start\obj\Debug\netcoreapp3.1\Start.pdb
+C:\Users\saura\Desktop\Geometry\Start\obj\Debug\netcoreapp3.1\Start.genruntimeconfig.cache
