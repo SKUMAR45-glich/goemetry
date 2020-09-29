@@ -1,0 +1,4 @@
+C:\Users\saura\Desktop\Geometry\Start\obj\Debug\netcoreapp3.1\Start.csprojAssemblyReference.cache
+C:\Users\saura\Desktop\Geometry\Start\obj\Debug\netcoreapp3.1\Start.AssemblyInfoInputs.cache
+C:\Users\saura\Desktop\Geometry\Start\obj\Debug\netcoreapp3.1\Start.AssemblyInfo.cs
+C:\Users\saura\Desktop\Geometry\Start\obj\Debug\netcoreapp3.1\Start.csproj.CoreCompileInputs.cache
