@@ -55,10 +55,7 @@ namespace Start
             distance(p1, q1, p2, q2);
             //double d = getdistance(x1, x2, y1, y2);
         }
-        /*static double getdistance(int x1, int x2, int y1, int y2)
-        {
-            return Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));
-        }*/
+       
         
         
     }
