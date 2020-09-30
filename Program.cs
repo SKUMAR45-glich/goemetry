@@ -18,13 +18,7 @@ namespace Start
         };
         public static void distance(Point p1, Point q1, Point p2, Point q2)
         {
-            // for details of below formula. 
-            /*int val = (q.y - p.y) * (r.x - q.x) -
-                    (q.x - p.x) * (r.y - q.y);
-
-            if (val == 0) return 0; // colinear 
-
-            return (val > 0) ? 1 : 2; // clock or counterclock wise */
+            
             double d1 = Math.Sqrt(Math.Pow(q1.x - p1.x, 2) + Math.Pow(q1.y - p1.y, 2));
 
             double d2 = Math.Sqrt(Math.Pow(q2.x - p2.x, 2) + Math.Pow(q2.y - p2.y, 2));
