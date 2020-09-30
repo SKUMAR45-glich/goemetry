@@ -28,7 +28,7 @@ namespace Start
             double d1 = Math.Sqrt(Math.Pow(q1.x - p1.x, 2) + Math.Pow(q1.y - p1.y, 2));
 
             double d2 = Math.Sqrt(Math.Pow(q2.x - p2.x, 2) + Math.Pow(q2.y - p2.y, 2));
-            int d = d1.CompareTo(d2);
+            double d = d1.CompareTo(d2);
 
             if (d == 0)
             {
